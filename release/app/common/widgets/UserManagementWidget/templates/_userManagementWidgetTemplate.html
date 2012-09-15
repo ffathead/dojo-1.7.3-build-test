@@ -1,0 +1,28 @@
+<div 	class="${baseClass}"
+		id="_userManagementDropdown">
+
+	<div>
+  	<a 	id="_userManagementDropdownLink"
+  		class="${baseClass}LinkText"
+  		data-dojo-attach-event="onclick: _onLinkClick"
+  		href="/login.html">INJECT_USER</a><span id="_userManagementDropdownArrow" class="${baseClass}DropdownArrow">&#9660;</span>
+	</div>
+	<div id="_userManagementDropdownSection" class="${baseClass}DropdownSection">
+	  <ul>
+	    <li id="_userManagementProfileSection" class="${baseClass}ManagementSection">
+	        <a href="profile.html" id="_userManagementProfile" data-dojo-attach-event="onclick:_onOptionClick">PROFILE</a>
+	    </li>
+	    <li class="${baseClass}Divider"></li>
+	    <li id="userManagementSiteManagementSection" class="${baseClass}ManagementSection">
+	      <a href="messages.html" id="_userManagementSiteManagement" data-dojo-attach-event="onclick:_onOptionClick">Messages</a>
+      </li>
+      <li id="userManagementSiteManagementSection" class="${baseClass}ManagementSection">
+        <a href="sitemanagement.html" id="_userManagementSiteManagement" data-dojo-attach-event="onclick:_onOptionClick">Site Management</a>
+	    </li>
+	    <li class="${baseClass}Divider"></li>
+	    <li id="userManagementLogoutSection" class="${baseClass}ManagementSection">
+	        <a href="logout.html" id="_userManagementLogout" data-dojo-attach-event="onclick:_onOptionClick">${resource.logout}</a>
+	    </li>
+	  </ul>
+	</div>
+</div>

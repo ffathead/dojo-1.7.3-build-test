@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="Description" content="Add description"/>
+		<meta name="author" content="Nigel-Helliwell-Axe" />
+
+		<title>Dojo Build Test Page</title>
+
+		<link rel="stylesheet" href="app/common/css/style.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="app/common/widgets/UserManagementWidget/css/UserManagementWidget.css" type="text/css" media="screen"/>
+		<script>
+    		dojoConfig = {
+        		isDebug: true,
+        		parseOnLoad: true,
+        		async: true,
+        		baseUrl: '.',
+				packages:  [
+					'dojo',
+					'dijit',
+					{ name: 'app', location: 'app', map: {} }
+					/*
+					{ name: 'common/modules', location: 'app/common/modules' },
+					{ name: 'widgets', location: 'app/common/widgets' },
+					{ name: 'nls', location: 'app/common/nls' }*/
+                ],
+        		locale: location.search.match(/locale=([\w\-]+)/) ? RegExp.$1 : "en-UK",
+        		global: {
+        			param: "Dojo Build Test Page"
+        		},
+        		has: {
+        			// Configure features
+        		},
+        		properties: {
+        			site: "test"
+        		}
+    		};
+		</script>
+
+		<script src="dojo/dojo.js"></script>
+
+		<!--<script src="app/run.js"></script>-->
+
+		<script>
+		/*
+			require(["dojo/parser", "widgets/UserManagementWidget/UserManagementWidget", "dojo/domReady!"], function(parser){
+        		//parser.parse();
+    		});
+    	*/
+    		require(["dojo/parser",/*"dojo/i18n!nls/resources",*/ "app/TestModule", "app/common/modules/TestModule2", "app/common/widgets/UserManagementWidget/UserManagementWidget", "dijit/layout/BorderContainer", "dojo/domReady!"], function(parser, TestModule, TestModule2){
+		        	//console.log("Loaded: " + resources.language);
+		        	TestModule.setText('TestDiv', 'Testing');
+		        	TestModule2.setText('TestDiv', 'Testing2');
+    		});
+		</script>
+	</head>
+
+	<body class="body">
+
+		<div id="TestDiv"></div>
+
+		<div data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design:'sidebar', gutters:true, liveSplitters:true" id="borderContainer">
+		</div>
+
+<!--
+		<div data-dojo-type="app.common.widgets.UserManagementWidget.UserManagementWidget" data-dojo-props="open:false, username:'test.user@email.com'">
+		</div>
+-->
+    </body>
+</html>
+

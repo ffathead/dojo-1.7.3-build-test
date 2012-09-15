@@ -1,0 +1,77 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    text-align: left;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #000000;
+  background: #FFFFFF;
+}
+
+ul { 
+  list-style-type: none;
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+  margin-top: 10px;
+}
+
+.userManagementWidget {
+  font: 15px Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.userManagementWidgetLinkText {
+	text-decoration: none;
+	color: #000000;
+	background: #FFFFFF;
+}
+
+.userManagementWidgetDropdownArrow {
+  background: #FFFFFF;
+}
+
+.userManagementWidgetDropdownSection {
+  font-family: Arial,sans-serif;
+  font-size: 14px;
+	background: #FFFFFF;
+	padding: 2px 0px 2px 0px;
+	display: inline-block;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+.userManagementWidgetManagementSection {
+  color: #000000;
+  display: block;
+  width:100%;
+}
+
+.userManagementWidgetDivider {
+  display: block;
+  border-bottom: 1px solid #DDD;
+  padding-top: 1px;
+  margin: 5px 1px 6px;
+}
+
+.userManagementWidgetManagementSection ul {
+}
+
+
+.userManagementWidgetManagementSection ul:hover{
+  
+}
+
+.userManagementWidgetManagementSection a {
+  color: #000000;
+  text-decoration: none;
+  display: block;
+  padding: 3px 15px 3px 22px;
+}
+
+.userManagementWidgetManagementSection a:hover {
+  background: #216DBF;
+  color: #FFFFFF;
+}

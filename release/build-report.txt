@@ -1,0 +1,240 @@
+Build started: Sat Sep 15 2012 10:56:15 GMT+0100 (BST)
+Build application version: 1.7.0dev (23930)
+Messages:
+info(106) Optimizing CSS.
+	file: D:/Development/website/workspace/buildtest/src/app/common/css/style.css
+	file: D:/Development/website/workspace/buildtest/src/app/common/widgets/UserManagementWidget/css/UserManagementWidget.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Dialog_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/TabContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/layout/AccordionContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/AccordionContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Slider_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Slider_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/TimeTextBox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/AccordionContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/soria.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/nihilo.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Select_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/ColorPalette.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Editor.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Common_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Checkbox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/TabContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/TimePicker.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/icons/editorIcons.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Slider.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Calendar_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Slider.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Dialog.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Tree.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/tundra.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/TitlePane_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Checkbox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Slider_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/ColorPalette.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Editor.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/claro_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Menu.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Toolbar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/icons/editorIcons_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Menu_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/TitlePane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Calendar_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/TitlePane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/AccordionContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Menu_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Dialog.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Editor_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Toolbar_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Menu_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/TitlePane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/ColorPalette.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Tree.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Button.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/soria_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Menu.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/TabContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/TimePicker.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Button_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/TimeTextBox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/ColorPalette.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/TitlePane_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/claro.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/ProgressBar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Button_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/layout/TabContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Toolbar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/TabContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/InlineEditBox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Menu_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Dialog_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Editor_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/SplitContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Select.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Editor.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/BorderContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/TabContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Checkbox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/layout/ContentPane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/AccordionContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/ContentPane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Dialog.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Tree_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/layout/TabContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/dijit_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/TimePicker_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/BorderContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/TitlePane_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Calendar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/ProgressBar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Toolbar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/ProgressBar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Editor.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Button_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/RadioButton.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Button.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/icons/commonIcons_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/icons/commonIcons.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/TimePicker.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/document.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/tundra_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Button.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Tree.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Button.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/TimePicker.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Dialog_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/TabContainer_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Menu.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Dialog.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/ContentPane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Calendar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Tree_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/ProgressBar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Tree.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Slider.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Menu.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Editor_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Tree_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Calendar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/Editor_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/TimePicker_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/dijit.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/layout/BorderContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/Calendar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/AccordionContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/TitlePane_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/NumberSpinner.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/form/Select.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Checkbox.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Select.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/BorderContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/Select.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Calendar_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Common.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/nihilo_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/layout/SplitContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/Slider_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/TitlePane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/claro/form/RadioButton.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/TimePicker_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/TimePicker_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/layout/SplitContainer.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/Slider.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/form/RadioButton.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/form/RadioButton.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Dialog_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/soria/Toolbar.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/nihilo/Calendar_rtl.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dijit/themes/tundra/layout/ContentPane.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dojo/_firebug/firebug.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dojo/resources/dojo.css
+	file: D:/Development/website/workspace/dojo/1.7.3/dojo/resources/dnd.css
+info(107) Package Version:
+	package: app; version: 0.1
+	package: dijit; version: 1.7.3
+	package: dojo; version: 1.7.3
+warn(216) dojo/has plugin resource could not be resolved during build-time.
+	plugin resource id: dojo-firebug?./_firebug/firebug; reference module id: dojo/main
+	plugin resource id: dom-addeventlistener?:./aspect; reference module id: dojo/on
+error(354) Root bundle indicates localized bundles that don't exist.
+	Root: dojo/cldr/nls/buddhist; missing bundles: 'fr','hu','it','ja','ko','nb','nl','pl','pt','pt-pt','ru','sv','tr','zh'.
+	Root: dojo/cldr/nls/hebrew; missing bundles: 'fr','hu','nl','ru','sv','th','tr'.
+	Root: dojo/cldr/nls/islamic; missing bundles: 'fr','hu','it','nb','nl','pl','pt','pt-pt','ru','sv','th','tr','zh'.
+Layer Contents:
+app/app:
+	dojo/_base/fx
+	dojo/dom-form
+	dojo/i18n
+	dojo/string
+	dojo/_base/html
+	dojo/_base/kernel
+	dojo/io-query
+	dojo/_base/Deferred
+	dojo/query
+	dojo/has
+	dijit/_WidgetBase
+	dojo/json
+	dojo/_base/declare
+	dojo/dom
+	dojo/touch
+	dojo/selector/acme
+	app/app
+	dojo/dom-style
+	dojo/dom-geometry
+	dijit/_WidgetsInTemplateMixin
+	dojo/Stateful
+	dojo/dom-prop
+	dojo/fx/easing
+	app/common/widgets/UserManagementWidget/templates/_userManagementWidgetTemplate.html
+	dojo/dom-attr
+	dojo/dom-construct
+	dojo/date/stamp
+	dojo/_base/url
+	dojo/text
+	dojo/keys
+	dijit/registry
+	dojo/domReady
+	dojo/_base/lang
+	dojo/Evented
+	dojo/mouse
+	dojo/topic
+	dojo/_base/xhr
+	dojo/_base/unload
+	dijit/_OnDijitClickMixin
+	dojo/_base/Color
+	dojo/selector/_loader
+	dijit/_TemplatedMixin
+	dojo/on
+	dojo/_base/sniff
+	dojo/parser
+	dojo/_base/array
+	app/common/widgets/UserManagementWidget/nls/resources
+	dojo/_base/json
+	dojo/dom-class
+	dojo/_base/window
+	dijit/main
+	dojo/cache
+	app/common/widgets/UserManagementWidget/UserManagementWidget
+	dojo/_base/config
+	dojo/fx
+	dojo/_base/event
+	dojo/ready
+	dojo/aspect
+	dojo/_base/connect
+
+dojo/dojo:
+	dojo/dojo
+
+
+
+Process finished normally
+	errors: 3
+	warnings: 2
+	build time: 17.874 seconds
